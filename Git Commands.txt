@@ -20,6 +20,10 @@ Flow from the Project Manager
 
 3. git add .
 
-4.ghghjhku
-jghghjf
-jhygghui
+4. git commit -m "Message"
+
+5. git pull origin Developer
+
+6. git push origin developer-1
+
+3rd Flow
